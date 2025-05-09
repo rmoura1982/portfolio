@@ -1,0 +1,14 @@
+suzano/__pycache__/bronze_postgres_loader.cpython-312.pyc
+suzano/__pycache__/gold_processing.cpython-312.pyc
+suzano/__pycache__/silver_processing.cpython-312.pyc
+suzano/__pycache__/web_scraping.cpython-312.pyc
+.env
+suzano/architeture/architecture.drawio
+suzano/architeture/architecture.jpg
+suzano/architeture/image/BigQuery.png
+suzano/architeture/image/airflow.png
+suzano/architeture/image/cientist.png
+suzano/architeture/image/download.jpg
+suzano/architeture/image/goole_cloud.png
+suzano/architeture/image/python-logo-1.png
+venv/
